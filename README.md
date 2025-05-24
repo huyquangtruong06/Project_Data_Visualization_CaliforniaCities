@@ -35,3 +35,5 @@
 1. **Clone the repository:**
    ```bash
    https://github.com/huyquangtruong06/Project_Data_Visualization_CaliforniaCities.git
+2. **Use Visual Studio Code or other platform to open this project:**
+3. **And run it.**
