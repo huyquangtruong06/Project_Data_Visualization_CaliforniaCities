@@ -11,8 +11,8 @@
 - Provide a geographical view of the data using interactive maps.
 
 ## 📁 Project Structure
-├── data/ # Raw and processed datasets (CSV)
-├── src/ # Source code
+- data/ # Raw and processed datasets (CSV)
+- src/ # Source code
 
 ## 🧰 Technologies Used
 
